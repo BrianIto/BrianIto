@@ -39,4 +39,4 @@
 </p>  
 
 <p></p>
-![BrianIto github stats](https://github-readme-stats.vercel.app/api?username=BrianIto&show_icons=true&hide_border=true)
+<iframe src="https://github-readme-stats.vercel.app/api?username=BrianIto&show_icons=true&hide_border=true">
