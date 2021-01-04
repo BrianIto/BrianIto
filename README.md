@@ -22,19 +22,19 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="brian.oliveira100@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=brian.oliveira100@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/brian-ito-de-oliveira-moura-a5400119b" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brian-ito-de-oliveira-moura-a5400119b" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5592984374357&text=Hello,%20I%20found%20you%20on%20GitHub!" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5592984374357&text=Hello,%20I%20found%20you%20on%20GitHub!"/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/BriianIto" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/BriianIto"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/eu.brian/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/eu.brian/"/></a>
 </p>  
 
