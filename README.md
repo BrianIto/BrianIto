@@ -14,7 +14,7 @@
 <p align="left">
   💼 Tools:<br> <strong>Non Relational Databases:</strong> MongoDB, Firebase<br>
   <strong>Relational Databases:</strong> MySQL, SQL Server<br>
-  <strong>Another kind of tools:</strong> Git, MongoDB Atlas, MongoDB Realm, Vercel, Amazon AWS (EC2, CodePipeline), CI, CD.
+  <strong>Another kind of tools:</strong> Git, MongoDB Atlas, MongoDB Realm, Vercel, Amazon AWS (EC2, CodePipeline), CI, CD, Trello & Monday. (also a quite addiction for bullet journals).
 </p>
 
 <p align="left">
