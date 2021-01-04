@@ -28,7 +28,7 @@
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brian-ito-de-oliveira-moura-a5400119b" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5592984374357&text=Hello,%20I%20found%20you%20on%20GitHub!" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5592984374357&text=Hello,%20I%20found%20you%20on%20GitHub!"/></a>
 
   <a href="#" alt="Facebook">
