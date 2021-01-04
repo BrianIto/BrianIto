@@ -8,12 +8,12 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML, CSS, JavaScript, NodeJS, React, React Native, Stylus, Sass, LESS, Handlebars, Express Framework, Jest, Electron, Python, C, C++, Flask Framework and Automation.</strong>
+  🦄 Skills: <br><strong>HTML, CSS, JavaScript, NodeJS, React, React Native, Stylus, Sass, LESS, Handlebars, Express Framework, Jest, Electron, Python, C, C++, Flask Framework and Automation.</strong>
 </p>
 
 <p align="left">
   💼 Tools: <strong>Non Relational Databases:</strong> MongoDB, Firebase<br>
-  <strong>Relational Databases:</strong> MySQL, SQL Server
+  <strong>Relational Databases:</strong> MySQL, SQL Server<br>
   <strong>Another kind of tools:</strong> Git, MongoDB Atlas, MongoDB Realm, Vercel, Amazon AWS (EC2, CodePipeline), CI, CD.
 </p>
 
