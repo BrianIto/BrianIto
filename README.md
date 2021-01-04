@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Non Relational Databases:</strong> MongoDB, Firebase<br>
+  💼 Tools:<br> <strong>Non Relational Databases:</strong> MongoDB, Firebase<br>
   <strong>Relational Databases:</strong> MySQL, SQL Server<br>
   <strong>Another kind of tools:</strong> Git, MongoDB Atlas, MongoDB Realm, Vercel, Amazon AWS (EC2, CodePipeline), CI, CD.
 </p>
