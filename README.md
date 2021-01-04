@@ -37,3 +37,6 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/eu.brian/"/></a>
 </p>  
+
+<p></p>
+![BrianIto github stats](https://github-readme-stats.vercel.app/api?username=BrianIto&show_icons=true&hide_border=true)
