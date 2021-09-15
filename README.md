@@ -25,7 +25,7 @@
   <a href="brian.oliveira100@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=brian.oliveira100@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/brian-ito-de-oliveira-moura-a5400119b" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/brian-moura/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brian-ito-de-oliveira-moura-a5400119b" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5592984374357&text=Hello,%20I%20found%20you%20on%20GitHub!" alt="WhatsApp">
