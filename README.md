@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  I'm 23 yo, Luísa's father and Kamylla's husband. I'm currently a <strong>Plain Fullstack Developer</strong>. Right now running a enterperneur called Quem Se Importa, to bring technology benefits for those in need to improve education, fight poverty and give people more access to information and Nitro10 Now, which is focused on automation for industries.<br>
+  I'm 24 yo, Luísa's father and Kamylla's husband. I'm currently a <strong>Plain Fullstack Developer</strong>. Right now running a enterperneur called Quem Se Importa, to bring technology benefits for those in need to improve education, fight poverty and give people more access to information and Nitro10 Now, which is focused on automation for industries.<br>
   I'm a Computer Science Academic @ <a href="https://ufam.edu.br">University Federal of Amazonas</a> and an enthuasistic learner of 3JS and how it impacts Frontend Development.
 </p>
 
