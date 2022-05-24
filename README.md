@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  I'm 24 yo, Luísa's father and Kamylla's husband. I'm currently a <strong>Plain Fullstack Developer</strong>. Right now running a enterperneur called Quem Se Importa, to bring technology benefits for those in need to improve education, fight poverty and give people more access to information and Nitro10 Now, which is focused on automation for industries.<br>
-  I'm a Computer Science Academic @ <a href="https://ufam.edu.br">University Federal of Amazonas</a> and an enthuasistic learner of 3JS and how it impacts Frontend Development.
+  I'm 24 yo, Luísa's father and Kamylla's husband. I'm currently a <strong>Plain Fullstack Developer</strong>. Right now running a entrepeneurship called Pra Gente, which is a software house focused in UX and deliverying seamless experiences through tech and Nitro10 Now, which is focused on automation for industries.<br>
+  I'm a Computer Science Academic @ <a href="https://ufam.edu.br">University Federal of Amazonas</a> and an enthuasistic learner of ThreeJS and how it impacts Frontend Development.
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 
 <p align="left">
   💼 Tools:<br> <strong>Non Relational Databases:</strong> MongoDB, Firebase<br>
-  <strong>Relational Databases:</strong> MySQL, SQL Server, PostgreSQL<br>
+  <strong>Relational Databases:</strong> MySQL, PostgreSQL<br>
   <strong>Another kind of tools:</strong> Git, MongoDB Atlas, MongoDB Realm, Vercel, Amazon AWS (EC2, CodePipeline), CI, CD, Trello & Monday. (also a quite addiction for bullet journals).
 </p>
 
