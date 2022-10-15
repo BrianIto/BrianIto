@@ -3,12 +3,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  I'm 24 yo, Luísa's father and Kamylla's husband. I'm currently a <strong>Plain Fullstack Developer</strong>. Right now running a entrepeneurship called Pra Gente, which is a software house focused in UX and deliverying seamless experiences through tech and Nitro10 Now, which is focused on automation for industries.<br>
+  I'm 24 yo, Luísa's father and Kamylla's husband. I'm currently a <strong>Senior Frontend Developer</strong>. Right now running a entrepeneurship called Pra Gente, which is a software house focused in UX and deliverying seamless experiences through tech and also working at <a href="https://indt.org.br">INDT - Instituto de Desenvolvimento Tecnológico.</a><br>
   I'm a Computer Science Academic @ <a href="https://ufam.edu.br">University Federal of Amazonas</a> and an enthuasistic learner of ThreeJS and how it impacts Frontend Development.
 </p>
 
 <p align="left">
-  🦄 Skills: <br><strong>HTML, CSS, JavaScript, NodeJS, React, React Native, Stylus, Sass, LESS, Handlebars, Express Framework, Jest, Electron, Python, C, C++, Flask Framework and Automation.</strong>
+  🦄 Skills:
+  <p>I could put a really long list here, but let's focus in what is really important:</p>
+  <ul>
+    <li>Sass and a lot of preprocessors. This contains Plain CSS in it's fullness.</li>
+    <li>SvelteKit, NextJS, React & Angular. Other frontend frameworks can be included.</li>
+    <li>NodeJS w/ TypeScript for backends.</li>
+    <li>Please, TDD with any tool you want. Cypress, Jest, Playwright, Nightwatch or anything else.</li>
+    <li>I don't know things in level <i>"basic"</i> or <i>"intermediate"</i>. It's all about can develop a full project with all it's complexities or nothing.</li>
+  </ul>
 </p>
 
 <p align="left">
