@@ -11,8 +11,8 @@
   🦄 Skills:
   <p>I could put a really long list here, but let's focus in what is really important:</p>
   <ul>
-    <li>Sass and a lot of preprocessors. This contains Plain CSS in it's fullness.</li>
-    <li>SvelteKit, NextJS, React & Angular. Other frontend frameworks can be included.</li>
+    <li>SaSS and other preprocessors. This contains Plain CSS in it's fullness. This includes TailwindCSS.</li>
+    <li>SvelteKit, NextJS, React & Angular.</li>
     <li>NodeJS w/ TypeScript for backends.</li>
     <li>Please, TDD with any tool you want. Cypress, Jest, Playwright, Nightwatch or anything else.</li>
     <li>I don't know things in level <i>"basic"</i> or <i>"intermediate"</i>. It's all about can develop a full project with all it's complexities or nothing.</li>
