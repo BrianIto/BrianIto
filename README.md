@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">
-  💌 Interested? Contact me here: ⤵️ or go to my <b><a href="https://brian.qsimporta.com">website!</a></b>
+  💌 Interested? Contact me here: ⤵️ or go to my <b><a href="https://brianito.com">website!</a></b>
 </p>
 
 <p align="left">
