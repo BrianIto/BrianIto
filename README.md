@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  I'm 24 yo, Luísa's father and Kamylla's husband. I'm currently a <strong>Senior Frontend Developer</strong>. Right now running a entrepeneurship called Pra Gente, which is a software house focused in UX and deliverying seamless experiences through tech and also working at <a href="https://indt.org.br">INDT - Instituto de Desenvolvimento Tecnológico.</a><br>
+  I'm 27  yo, Luísa's father and Kamylla's husband. I'm currently a <strong>Lead Frontend Developer</strong>. Right now working building for Web3. 
   I'm a Computer Science Academic @ <a href="https://ufam.edu.br">University Federal of Amazonas</a> and an enthuasistic learner of ThreeJS and how it impacts Frontend Development.
 </p>
 
