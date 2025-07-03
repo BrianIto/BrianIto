@@ -4,7 +4,6 @@
 
 <p align="left"> 
   I'm 27  yo, Luísa's father and Kamylla's husband. I'm currently a <strong>Lead Frontend Developer</strong>. Right now working building for Web3. 
-  I'm a Computer Science Academic @ <a href="https://ufam.edu.br">University Federal of Amazonas</a> and an enthuasistic learner of ThreeJS and how it impacts Frontend Development.
 </p>
 
 <p align="left">
